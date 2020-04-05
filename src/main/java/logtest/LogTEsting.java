@@ -69,7 +69,7 @@ public class LogTEsting {
 		
 	}
 	  
-
+//sample message
 	@AfterMethod
 	public void close() throws InterruptedException
 	{
