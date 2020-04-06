@@ -73,6 +73,7 @@ public class LogTEsting {
 	@AfterMethod
 	public void close() throws InterruptedException
 	{
+		//***sample*
 		Thread.sleep(5000);
 		driver.quit();
 	}
